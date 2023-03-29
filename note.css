@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2017/07/08/11/33/white-2484120_960_720.png');
+}
+button{
+    
+    border-radius: 20px;
+    border: 1px solid #FF4828;
+    background-color: #FF4828;
+    color:#FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    
+}
